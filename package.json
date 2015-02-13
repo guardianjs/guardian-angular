@@ -1,0 +1,26 @@
+{
+  "name": "guardian-angular",
+  "version": "0.0.1",
+  "description": "Simplified Angular testing with guardianjs testing framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guardianjs/guardian-angular.git"
+  },
+  "keywords": [
+    "angular",
+    "guardian",
+    "unit",
+    "test",
+    "tdd"
+  ],
+  "author": "Bryant Syme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guardianjs/guardian-angular/issues"
+  },
+  "homepage": "https://github.com/guardianjs/guardian-angular"
+}
